@@ -19,7 +19,7 @@ img
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% 'Bellefair', arial, sans-serif;
-  color: #FA057E;
+  color: 	#9932CC;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
 
@@ -109,7 +109,7 @@ ol li
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #FA057E;
+{ color: 	#9932CC;
   font: italic 36px garamond;
   font-family: "Princess sofia";
 }
@@ -154,7 +154,7 @@ ul#menu li a
   background: transparent;} 
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
-{ color: #FA057E;
+{ color: #9932CC;
   background: #fff;}
 
 #site_content
